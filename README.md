@@ -6,3 +6,4 @@ It was a dark and stormy night. The rain pattered against the window, but a lone
 - [Read Chapter 2: The Beast of Diverging Histories](chapter_2.ts)
 - [Read Chapter 3: The Blade of Resolution](chapter_3.ts)
 - [Read Chapter 4: The First Merge](chapter_4.ts)
+- [Read Chapter 5: The Malicious Package](chapter_5.ts)
